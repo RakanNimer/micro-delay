@@ -1,6 +1,6 @@
 {
   "name": "micro-es6-delay",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "one line setTimeout promisification",
   "main": "index.js",
   "module": "index.js",
