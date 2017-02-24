@@ -2,7 +2,7 @@
   "name": "micro-es6-delay",
   "version": "0.2.0",
   "description": "one line setTimeout promisification",
-  "main": "index.js",
+  "main": "lib/index.js",
   "module": "index.js",
   "repository": "https://github.com/RakanNimer/micro-es6-delay",
   "author": "Rakan Nimer",
